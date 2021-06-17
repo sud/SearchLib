@@ -1,0 +1,2 @@
+# SearchLib
+Search algorithm library 
